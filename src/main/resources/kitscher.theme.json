@@ -1,0 +1,13 @@
+{
+  "name": "kitscher",
+  "dark": false,
+  "author": "Disengaged Pickle Slicer",
+  "editorScheme": "/kitscher.xml",
+
+  "ui": {
+    "ToolWindow.Header.background": "#0078D7",
+    "ToolWindow.Header.inactiveBackground": "#aaa",
+    "EditorTabs.background": "#0078D7",
+    "EditorTabs.inactiveColoredFileBackground": "#f00"
+  }
+}
